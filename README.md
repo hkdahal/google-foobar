@@ -8,4 +8,4 @@
  The problems are interesting. They are heavily focused on optmization. I have been able to solve upto 7 problems so far using
  right data structures, matrix manipulation, math puzzles, and different algorithms such as Dijkstra, Backtracking, BFS, etc.
  
- Only posting questions to show that I have solved these problems. I might be able to help you out with how to approach the problems and come to the solution if anyone is interested.
+ Only posting questions to show that I have solved these problems. 
